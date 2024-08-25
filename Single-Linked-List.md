@@ -1,4 +1,4 @@
-I had upload all the program related to single linked list.
+All the operations that can be peformed on a single linked list.
 
 1. **Node creation** 
 
